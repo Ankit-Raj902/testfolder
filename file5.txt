@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is mains file5.txt
+=======
+this is file5.txt
+>>>>>>> feature
 
